@@ -1,0 +1,123 @@
+
+.parent {
+    margin : 20px 100px 50px 100px;
+}
+.header {
+background-color: rgb(26, 94, 94);
+color: white;
+text-align: center;
+padding-top :10px;
+padding-bottom: 30px;
+margin: 0;
+}
+.contact a {
+    padding-right: 10px;
+}
+
+strong {
+    color: rgb(239, 237, 237);
+}
+
+a {
+    color: white;
+    font-size: larger;
+}
+.subtitle {
+    font-size: larger;
+
+}
+
+.subheader {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(248, 238, 228);
+
+}
+
+img{
+    width: 20%;
+    height: 0%;
+    border-radius:50%;
+    padding: 20px;
+    margin:auto;
+
+}
+#description {
+    width: 50%;
+    padding: 10px;
+    margin :10px 10px 10px 40px;
+    text-align: justify;
+    color: black;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+hr {
+    margin : 0 10px 0 10px;
+}
+
+.content {
+display: flex;
+height: auto;
+background-color: rgb(248, 238, 228);
+margin-bottom: 0px;
+
+
+}
+h2 {
+    color: brown;
+}
+.contentLeft {
+    width:70%;
+    border-right: 1px solid black ;
+    margin :0px 40px 10px 40px;
+    
+}
+
+.contentLeft span{
+   float: right;
+   margin: 0 10px  20px  0;
+}
+
+.contentLeft h3,h4, ul li{
+    margin: 0;
+    text-align: justify;
+}
+
+.contentLeft li{
+    margin-right: 40px;
+    margin-top: 0;
+   
+}
+
+.contentLeft h5{
+    margin-left: 12px;
+    margin-top: 0;
+
+
+}
+
+.contentRight {
+    width:40%;
+    margin :0px 40px 10px 0px;
+
+}
+
+.contentRight li {
+    margin :0px 20px 10px 0px;
+    letter-spacing: 0.5px;
+}
+
+.footer {
+ background-color: rgb(26, 94, 94);
+color: white;
+padding-top :10px;
+padding-bottom: 30px;
+margin: 0;
+}
+
+.skill li {
+    margin: 0; 
+    padding: 0;
+}
